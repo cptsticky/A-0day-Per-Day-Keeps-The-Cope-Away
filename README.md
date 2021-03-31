@@ -19,5 +19,5 @@
 
 ### CourseMS 2.1
 
-* Stored XSS in Registration Page (Requires Admin access to the WebApp)  *add_user.php* [3/30/2021]
+* CVE-2021-29663 Stored XSS in Registration Page (Requires Admin access to the WebApp)  *add_user.php* [3/30/2021]  https://www.exploit-db.com/exploits/49731
 
