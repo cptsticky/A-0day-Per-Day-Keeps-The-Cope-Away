@@ -20,5 +20,6 @@
 ### CourseMS 2.1
 
 * CVE-2021-29663 CoursMS 2.1 - Stored XSS in Registration Page (Requires Admin access to the WebApp)  *add_user.php* [3/30/2021]  https://www.exploit-db.com/exploits/49731
+### Latrix 0.6.0
 * Latrix 0.6.0 – Unauthenticated SQL Injection in *txtaccesscode* parameter in *inandout.php*  [3/31/2021]
 
